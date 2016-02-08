@@ -17,7 +17,7 @@ $(function() {
     // Navigation items
     siteNavItems: [
       { name: 'Github', href: 'https://github.com/daz4126', newWindow: false},
-      { name: 'About'}
+      { name: 'About'},
       { name: 'Test'}
     ],
 
