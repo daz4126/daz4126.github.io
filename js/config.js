@@ -18,6 +18,7 @@ $(function() {
     siteNavItems: [
       { name: 'Github', href: 'https://github.com/daz4126', newWindow: false},
       { name: 'About'}
+      { name: 'Test'}
     ],
 
     // Posts folder name
