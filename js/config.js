@@ -9,14 +9,14 @@ $(function() {
     siteTagline: 'Made in Manchester',
 
     // Email address
-    siteEmail: 'your_email@example.com',
+    siteEmail: 'daz4126@gmail.com',
 
     // Name
-    siteAuthor: 'Your Name',
+    siteAuthor: 'DAZ',
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/yourname', newWindow: false},
+      { name: 'Github', href: 'https://github.com/daz4126', newWindow: false},
       { name: 'About'}
     ],
 
