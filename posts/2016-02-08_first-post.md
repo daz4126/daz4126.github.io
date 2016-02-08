@@ -13,4 +13,9 @@ This is just another paragraph
 Test
 ----
 
+This is a test paragraph
+
 Hello there!
+------------
+
+Howdy partner!
