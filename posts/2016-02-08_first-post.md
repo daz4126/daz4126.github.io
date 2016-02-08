@@ -14,9 +14,3 @@ Test
 ----
 
 Hello there!
-
- 
-
- 
-
-###  
